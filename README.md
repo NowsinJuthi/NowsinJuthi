@@ -1,17 +1,9 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<h1 align="center">Hi 👋, I'm Nowsin Saiwara Juthi</h1>
 
-###
+<h3 align="center">
+Junior MERN Stack Developer
+</h3>
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-</div>
-
-###
-
-<h1 align="center">Nowsin Saiwara Juthi</h1>
-
-<h3 align="left">🔥   My Stats : Full-Stack Developer Journey</h3>
-
-###
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;React+Developer;Node.js+Developer;Always+Learning+New+Technologies&center=true&width=500&height=50">
+</p>
