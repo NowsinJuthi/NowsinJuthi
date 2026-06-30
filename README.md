@@ -1,157 +1,158 @@
-# 💻 About Me
+<h1 align="center">Hi, I'm Nowsin Saiwara Juthi</h1>
+
+<h3 align="center">Junior MERN Stack Developer | Passionate Full-Stack Web Developer</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Junior+MERN+Stack+Developer;React+Developer;Next.js+Developer;Node.js+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
+</p>
+
+---
+
+## 👨‍💻 About Me
 
 - 🎓 Recently graduated with a **Bachelor of Science in Computer Science & Engineering (CSE)**
-- 💻 Junior **Full-Stack Developer** specializing in the **MERN Stack** and **Next.js**
-- 🚀 Experienced in building modern, scalable, and production-ready web applications using **React, Next.js, Node.js, Express.js, MongoDB, and Firebase**
-- 🌟 Currently developing the **UniQbd Gaming Store** with **Next.js**, focusing on performance, SEO, and an excellent user experience
-- 🔐 Familiar with authentication systems using **JWT**, **Firebase Authentication**, and secure REST APIs
-- 📦 Experienced in integrating payment gateways, third-party APIs, and cloud services into web applications
-- 🧠 Passionate about writing clean, reusable, and maintainable code while continuously learning new technologies
-- 🤝 Comfortable collaborating with teams using **Git/GitHub** and Agile development workflows
+- 💻 Junior Full-Stack Developer specializing in the **MERN Stack** and **Next.js**
+- 🚀 Building production-ready full-stack web applications using **Next.js, React, Node.js, Express.js, MongoDB, and Firebase**
+- 🌟 Currently developing the **UniQbd Gaming Store** with **Next.js**, focusing on performance, SEO, and user experience
+- 🌱 Continuously learning **TypeScript**, **AI Integration**, and modern web development best practices
+- 🔥 Passionate about building scalable, high-performance, and user-friendly web applications
+- 💼 Open to **Full-Stack Developer (MERN/Next.js)** opportunities
+- 📍 Dhaka, Bangladesh
+- 🎨 Outside of coding, I enjoy painting and exploring creative design
 
 ---
 
-# ✅ Comfortable Working With
+## 🌐 Connect with Me
 
-- React.js & Next.js (App Router)
-- Node.js, Express.js & REST API Development
-- MongoDB, Mongoose & Firebase Firestore
-- Authentication (JWT, Firebase Authentication)
-- Responsive UI with Tailwind CSS & Bootstrap
-- API Integration using Axios & Fetch API
-- State Management (Context API)
-- Payment Gateway Integration
-- Git & GitHub Version Control
-- Deploying applications on **Vercel**, **Render**, and **Firebase Hosting**
-
----
-
-# 🧰 Tech Stack
-
-### 🚀 Frontend
-React.js • Next.js • JavaScript (ES6+) • HTML5 • CSS3 • Tailwind CSS • Bootstrap • Axios
-
-### ⚙️ Backend
-Node.js • Express.js • REST API • JWT Authentication • Firebase Admin SDK
-
-### 🗄 Database
-MongoDB • Mongoose • Firebase Firestore
-
-### 🛠 Tools & Services
-Git • GitHub • Postman • VS Code • Figma • Firebase • Vercel • Render • Netlify
+<p align="left">
+<a href="https://linkedin.com/in/nowsinjuthi" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+<a href="mailto:nowsinjuthi@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+<a href="https://github.com/NowsinJuthi">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+</p>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Tech Stack
 
-## 🛒 UniQbd Gaming Store (Full-Stack)
+<p align="center">
 
-A production-ready gaming e-commerce platform built with **Next.js** that allows users to purchase game top-ups, gift cards, software licenses, and digital products.
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nextjs,nodejs,express,mongodb,firebase,git,github,vscode,postman,figma,canva" />
 
-### 🔥 Key Features
-
-- Built using **Next.js App Router**
-- SEO-friendly pages with fast loading performance
-- Secure Authentication with Firebase & JWT
-- Product Search & Filtering
-- Shopping Cart & Checkout System
-- Responsive UI for Desktop & Mobile
-- Admin Dashboard for Product Management
-- Payment Gateway Integration
-- Optimized Performance & User Experience
-
-### 🛠 Tech Stack
-
-Next.js • React • Node.js • Express.js • MongoDB • Firebase • Tailwind CSS
-
-🔗 **GitHub Repository**
+</p>
 
 ---
 
-## 🤖 UniQbd AI Chatbot
+# 💻 Featured Projects
 
-An AI-powered chatbot developed for UniQbd using **React**, **Node.js**, **Express**, **MongoDB**, and **Ollama (TinyLlama)**.
+### 🤖 UniQbd AI Chatbot
+> React • Express • MongoDB • Ollama
 
-### 🔥 Key Features
-
-- AI-powered conversation
-- JWT Authentication
-- Chat History Storage
-- Responsive Interface
-- REST API Architecture
-
-### 🛠 Tech Stack
-
-React • Node.js • Express • MongoDB • Ollama
-
-🔗 **GitHub Repository**
+An AI chatbot built using React, Node.js, Express, MongoDB and Ollama.
 
 ---
 
-## 📝 MERN Blog Application
+### 📝 MERN Blog Application
 
-A complete blog platform with user authentication, CRUD functionality, and responsive design.
-
-### 🔥 Key Features
-
-- User Registration & Login
-- JWT Authentication
-- Blog CRUD
-- Image Upload
-- Protected Routes
-- Responsive Design
-
-### 🛠 Tech Stack
-
-React • Express.js • MongoDB • Node.js
-
-🔗 **GitHub Repository**
+A full-stack blog website with authentication, CRUD operations and responsive UI.
 
 ---
 
-## 🔐 Admin Authentication System
+### 🔐 Admin Authentication System
 
-A secure authentication system featuring OTP verification, JWT login, and role-based access control.
-
-### 🔥 Key Features
-
-- Email OTP Verification
-- JWT Authentication
-- Protected Routes
-- User Management
-- Secure Password Hashing
-
-### 🛠 Tech Stack
-
-React • Express • MongoDB • JWT
-
-🔗 **GitHub Repository**
+OTP Verification • JWT Authentication • MongoDB • Node.js
 
 ---
 
-# 🧠 Currently Learning
+### 🛒 UniQbd Gaming Store
 
-- TypeScript
-- Advanced Next.js
-- AI Integration
-- System Design
-- Performance Optimization
-- Scalable Backend Architecture
+> **Next.js • React • Node.js • MongoDB**
+
+A modern gaming e-commerce platform built with **Next.js** for improved performance, SEO, fast page loading, and a better user experience. The platform offers game top-ups, gift cards, software, and digital products.
 
 ---
 
-# 🌍 Career Goal
+# 📈 GitHub Statistics
 
-My goal is to become a **Full-Stack Software Engineer**, building scalable, high-performance web applications using the **MERN Stack** and **Next.js**. I enjoy solving real-world problems, continuously learning new technologies, and collaborating with teams to deliver impactful software solutions.
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=NowsinJuthi&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NowsinJuthi&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-# 🤝 Connect With Me
+<p align="center">
 
-📧 Email: nowsinjuthi@gmail.com
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NowsinJuthi&theme=tokyonight&hide_border=true"/>
 
-💼 LinkedIn: https://linkedin.com/in/nowsinjuthi
+</p>
 
-💻 GitHub: https://github.com/NowsinJuthi
+---
 
-🌐 Portfolio: *(Add your portfolio URL here)*
+# 📊 Contribution Graph
+
+[![Nowsin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NowsinJuthi&theme=tokyo-night)](https://github.com/NowsinJuthi)
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=NowsinJuthi&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- ⚛️ React.js
+- 🚀 Next.js
+- 📘 TypeScript
+- ☁️ REST API Development
+- 🤖 AI Integration
+- 🗄 MongoDB Performance
+- ⚡ Server-Side Rendering (SSR) & Static Site Generation (SSG) with Next.js
+
+---
+
+# 🎯 Goals for 2026
+
+✅ Build Production-Level MERN & Next.js Applications
+
+✅ Contribute to Open Source
+
+✅ Master Next.js & TypeScript
+
+✅ Become a Professional Full Stack Developer
+
+✅ Secure a Software Engineer Position
+
+---
+
+# 💡 Quote
+
+> **"First, solve the problem. Then, write the code." – John Johnson**
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=NowsinJuthi&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my GitHub Profile! ⭐
+</h3>
