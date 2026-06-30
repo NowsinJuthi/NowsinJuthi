@@ -1,22 +1,24 @@
-<h1 align="center">Hi 👋, I'm Nowsin Saiwara Juthi</h1>
+<h1 align="center">Hi, I'm Nowsin Saiwara Juthi</h1>
 
-<h3 align="center">🚀 Junior MERN Stack Developer | Passionate Full-Stack Web Developer from Bangladesh 🇧🇩</h3>
+<h3 align="center">Junior MERN Stack Developer | Passionate Full-Stack Web Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Junior+MERN+Stack+Developer;React+Developer;Node.js+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Junior+MERN+Stack+Developer;React+Developer;Next.js+Developer;Node.js+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science & Engineering Graduate
-- 💻 Junior MERN Stack Developer
-- 🌱 Currently learning **Next.js**, **TypeScript**, and **AI Integration**
-- 🔥 Passionate about building modern, scalable, and responsive web applications
-- 💼 Looking for **Frontend / MERN Stack Developer** opportunities
+- 🎓 Recently graduated with a **Bachelor of Science in Computer Science & Engineering (CSE)**
+- 💻 Junior Full-Stack Developer specializing in the **MERN Stack** and **Next.js**
+- 🚀 Building production-ready full-stack web applications using **Next.js, React, Node.js, Express.js, MongoDB, and Firebase**
+- 🌟 Currently developing the **UniQbd Gaming Store** with **Next.js**, focusing on performance, SEO, and user experience
+- 🌱 Continuously learning **TypeScript**, **AI Integration**, and modern web development best practices
+- 🔥 Passionate about building scalable, high-performance, and user-friendly web applications
+- 💼 Open to **Full-Stack Developer (MERN/Next.js)** opportunities
 - 📍 Dhaka, Bangladesh
-- 🎨 Besides coding, I enjoy painting and creative design.
+- 🎨 Outside of coding, I enjoy painting and exploring creative design
 
 ---
 
@@ -40,7 +42,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nodejs,express,mongodb,firebase,git,github,vscode,postman,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nextjs,nodejs,express,mongodb,firebase,git,github,vscode,postman,figma,canva" />
 
 </p>
 
@@ -67,15 +69,11 @@ OTP Verification • JWT Authentication • MongoDB • Node.js
 
 ---
 
-### 📒 Django Contact Book
-
-A contact management web application built with Django and Bootstrap.
-
----
-
 ### 🛒 UniQbd Gaming Store
 
-Gaming Gift Cards • Digital Products • Game Top-up Website
+> **Next.js • React • Node.js • MongoDB**
+
+A modern gaming e-commerce platform built with **Next.js** for improved performance, SEO, fast page loading, and a better user experience. The platform offers game top-ups, gift cards, software, and digital products.
 
 ---
 
@@ -123,16 +121,17 @@ Gaming Gift Cards • Digital Products • Game Top-up Website
 - ☁️ REST API Development
 - 🤖 AI Integration
 - 🗄 MongoDB Performance
+- ⚡ Server-Side Rendering (SSR) & Static Site Generation (SSG) with Next.js
 
 ---
 
 # 🎯 Goals for 2026
 
-✅ Build Production Level MERN Applications
+✅ Build Production-Level MERN & Next.js Applications
 
 ✅ Contribute to Open Source
 
-✅ Learn Next.js & TypeScript
+✅ Master Next.js & TypeScript
 
 ✅ Become a Professional Full Stack Developer
 
