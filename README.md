@@ -61,7 +61,6 @@
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nextjs,nodejs,express,mongodb,git,github,vscode,postman,figma,canva" />
 
 </p>
-
 ---
 
 # 💻 Featured Projects
