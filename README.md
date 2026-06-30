@@ -22,6 +22,22 @@
 
 ---
 
+
+## 💼 Comfortable Working With
+
+| Category | Technologies |
+|----------|--------------|
+| **Frontend** | HTML5, CSS3, Bootstrap, Tailwind CSS, JavaScript (ES6+), React.js, Next.js |
+| **Backend** | Node.js, Express.js, REST APIs |
+| **Database** | MongoDB, Mongoose |
+| **Authentication** | JWT, Firebase Authentication |
+| **Deployment** | Vercel, Netlify, Render |
+| **Tools** | Git, GitHub, VS Code, Postman, npm, Figma, Canva |
+| **Practices** | Responsive Design, API Integration, Component-Based Architecture, Clean Code |
+| **Learning** | TypeScript, AI Integration, Performance Optimization |
+
+---
+
 ## 🌐 Connect with Me
 
 <p align="left">
