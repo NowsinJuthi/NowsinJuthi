@@ -75,15 +75,6 @@ OTP Verification • JWT Authentication • MongoDB • Node.js
 
 A modern gaming e-commerce platform built with **Next.js** for improved performance, SEO, fast page loading, and a better user experience. The platform offers game top-ups, gift cards, software, and digital products.
 
----
-
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NowsinJuthi&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
@@ -116,7 +107,15 @@ A modern gaming e-commerce platform built with **Next.js** for improved performa
 
 ## 🎯 Career Goal
 
-To grow as a **Full-Stack Software Engineer** specializing in **MERN Stack** and **Next.js**, building scalable, secure, and high-performance web applications while continuously learning emerging technologies and contributing to innovative software solutions.
+✅ Build Production-Level MERN & Next.js Applications
+
+✅ Contribute to Open Source
+
+✅ Master Next.js & TypeScript
+
+✅ Become a Professional Full Stack Developer
+
+✅ Secure a Software Engineer Position
 
 ---
 
