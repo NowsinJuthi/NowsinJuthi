@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nowsin Saiwara Juthi</h1>
+<h1 align="center">Hi, I'm Nowsin Saiwara Juthi</h1>
 
 <h3 align="center">
 Junior MERN Stack Developer
