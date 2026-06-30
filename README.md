@@ -81,8 +81,6 @@ A modern gaming e-commerce platform built with **Next.js** for improved performa
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NowsinJuthi&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NowsinJuthi&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
@@ -101,15 +99,6 @@ A modern gaming e-commerce platform built with **Next.js** for improved performa
 
 [![Nowsin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NowsinJuthi&theme=tokyo-night)](https://github.com/NowsinJuthi)
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=NowsinJuthi&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
 
 ---
 
@@ -125,31 +114,9 @@ A modern gaming e-commerce platform built with **Next.js** for improved performa
 
 ---
 
-# 🎯 Goals for 2026
+## 🎯 Career Goal
 
-✅ Build Production-Level MERN & Next.js Applications
-
-✅ Contribute to Open Source
-
-✅ Master Next.js & TypeScript
-
-✅ Become a Professional Full Stack Developer
-
-✅ Secure a Software Engineer Position
-
----
-
-# 💡 Quote
-
-> **"First, solve the problem. Then, write the code." – John Johnson**
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=NowsinJuthi&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
+To grow as a **Full-Stack Software Engineer** specializing in **MERN Stack** and **Next.js**, building scalable, secure, and high-performance web applications while continuously learning emerging technologies and contributing to innovative software solutions.
 
 ---
 
